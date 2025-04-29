@@ -5,102 +5,116 @@
 <div align="left">
   <h2 align="left">My Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Swayam42&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-<h2 align="left">Keep the Streak Alive !</h2>
+<h2 align="left">Keeping the Streak Alive !</h2>
   <img src="https://streak-stats.demolab.com?user=Swayam42&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <div>
+<div>
   <h2>Languages I Live By</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swayam42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="languages graph"  /> </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swayam42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
-###
+<!-- Tech Toolkit Section -->
 <h2 align="left">My Tech Toolkit</h2>
+
+<!-- Programming Languages -->
+<h3 align="left">Programming Languages</h3>
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-</a>
-<img width="12" />
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-</a>
-<img width="12" />
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-</a>
-<img width="12" />
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-</a>
-<img width="12" />
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-</a>
-<img width="12" />
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-</a>
-<img width="12" />
-<a href="https://httpd.apache.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo" />
-</a>
-<img width="12" />
-<a href="https://www.blender.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo" />
-</a>
-<img width="12" />
-<a href="https://getbootstrap.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-</a>
-<img width="12" />
-<a href="https://www.canva.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo" />
-</a>
-<img width="12" />
-<a href="https://figma.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-</a>
-<img width="12" />
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-</a>
-<img width="12" />
-<a href="https://github.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-</a>
-<img width="12" />
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo" />
-</a>
-<img width="12" />
-<a href="https://inkscape.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo" />
-</a>
-<img width="12" />
-<a href="https://www.java.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-</a>
-<img width="12" />
-<a href="https://jquery.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo" />
-</a>
-<img width="12" />
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-</a>
-<img width="12" />
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-</a>
-<img width="12" />
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-</a>
-<img width="12" />
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-</a>
-
-
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java" />
+  </a>
 </div>
+
+<!-- Web Development -->
+<h3 align="left">Web Development</h3>
+<div align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML5" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" title="CSS3" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" title="JQuery" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" title="NodeJS" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" title="Bootstrap" />
+  </a>
+</div>
+
+<!-- Designing Tools -->
+<h3 align="left">Designing Tools</h3>
+<div align="left">
+  <a href="https://figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" title="Figma" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" title="Canva" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://inkscape.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" title="Inkscape" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" title="Blender" />
+  </a>
+</div>
+
+<!-- Version Control & Cloud -->
+<h3 align="left">Version Control & Cloud</h3>
+<div align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" title="GitHub" />
+  </a>
+  <img width="12" />
+  
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" title="Google Cloud" />
+  </a>
+</div>
+
+<!-- IDE / Code Editors -->
+<h3 align="left">IDEs / Code Editors</h3>
+<div align="left">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" title="VSCode" />
+  </a>
+</div>
+
 
 ###
 <h2 align="left">Let's Sync</h2>
