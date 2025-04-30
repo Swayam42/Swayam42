@@ -6,7 +6,7 @@
   <h2 align="left">My Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Swayam42&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
 <h2 align="left">Keeping the Streak Alive !</h2>
-  <img src="https://streak-stats.demolab.com?user=Swayam42&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Swayam42&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
 <div>
   <h2>Languages I Live By</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swayam42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="languages graph" />
