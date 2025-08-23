@@ -83,9 +83,6 @@
   </a>
   <img width="12" />
   
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" title="Blender" />
-  </a>
 </div>
 
 <!-- Version Control & Cloud -->
