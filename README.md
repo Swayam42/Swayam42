@@ -115,9 +115,6 @@
 ###
 <h2 align="left">Let's Sync</h2>
 <div align="left">
-  <a href="https://www.youtube.com/@thearranger4777" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="34" alt="youtube logo"  />
-  </a>
   <a href="https://www.instagram.com/swayam._.jethi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="34" alt="instagram logo"  />
   </a>
