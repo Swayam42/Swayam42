@@ -2,6 +2,16 @@
 
 ###
 
+<!-- Holopin Badge -->
+<div align="center">
+  <a href="https://holopin.io/@swayam42" target="_blank">
+    <img src="https://holopin.me/swayam42" alt="Holopin badges of @swayam42" height="120" />
+  </a>
+  
+</div>
+
+###
+
 <div align="left">
   <h2 align="left">My Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Swayam42&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -11,108 +21,76 @@
   <h2>Languages I Live By</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swayam42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
-<!-- Tech Toolkit Section -->
+<!-- Tech Toolkit Section (Minimal, single group) -->
 <h2 align="left">My Tech Toolkit</h2>
-
-<!-- Programming Languages -->
-<h3 align="left">Programming Languages</h3>
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript" />
   </a>
   <img width="12" />
-  
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python" />
   </a>
   <img width="12" />
-  
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java" />
   </a>
-</div>
-
-<!-- Web Development -->
-<h3 align="left">Web Development</h3>
-<div align="left">
+  <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML5" />
   </a>
   <img width="12" />
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" title="CSS3" />
   </a>
   <img width="12" />
-  
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React" />
   </a>
   <img width="12" />
-  
   <a href="https://jquery.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" title="JQuery" />
   </a>
   <img width="12" />
-  
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" title="NodeJS" />
   </a>
   <img width="12" />
-  
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" title="Bootstrap" />
   </a>
-</div>
-
-<!-- Designing Tools -->
-<h3 align="left">Designing Tools</h3>
-<div align="left">
+  <img width="12" />
   <a href="https://figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" title="Figma" />
   </a>
   <img width="12" />
-  
   <a href="https://www.canva.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" title="Canva" />
   </a>
   <img width="12" />
-  
   <a href="https://inkscape.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" title="Inkscape" />
   </a>
   <img width="12" />
-  
-</div>
-
-<!-- Version Control & Cloud -->
-<h3 align="left">Version Control & Cloud</h3>
-<div align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git" />
   </a>
   <img width="12" />
-  
   <a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" title="GitHub" />
   </a>
   <img width="12" />
-  
   <a href="https://cloud.google.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" title="Google Cloud" />
   </a>
-</div>
-
-<!-- IDE / Code Editors -->
-<h3 align="left">IDEs / Code Editors</h3>
-<div align="left">
+  <img width="12" />
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" title="VSCode" />
   </a>
 </div>
 
-
 ###
+
 <h2 align="left">Let's Sync</h2>
 <div align="left">
   <a href="https://www.instagram.com/swayam._.jethi/" target="_blank">
@@ -121,7 +99,7 @@
   <a href="https://discord.gg/4YFkVJXz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="34" alt="discord logo"  />
   </a>
-  <a href="swayam.jethi@gmail.com" target="_blank">
+  <a href="mailto:swayam.jethi@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="34" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/swayam-jethi-8046251b9/" target="_blank">
