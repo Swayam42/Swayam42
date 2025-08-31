@@ -5,7 +5,7 @@
 <!-- Holopin Badge -->
 <div align="center">
   <a href="https://holopin.io/@swayam42" target="_blank">
-    <img src="https://holopin.me/swayam42" alt="Holopin badges of @swayam42" height="120" />
+    <img src="https://holopin.me/swayam42" alt="Holopin badges of @swayam42" height="220" />
   </a>
   
 </div>
