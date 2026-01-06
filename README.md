@@ -76,6 +76,13 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 30 December 2025 - To: 06 January 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://github-readme-stats-lilac-nu-35.vercel.app/api?username=Swayam42&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)
