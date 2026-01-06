@@ -39,7 +39,7 @@
 
 <br/>
 <br/>
-<h2 align="center"> <img src="/imgs/techStack.png" width="25"/> <em> Technologies </em> </h2>
+<h2 align="center"> <img src="/assets/techStack.png" width="25"/> <em> Technologies </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -70,7 +70,7 @@
 <br/>
 
 <h2 align="center">
-  <img src="/imgs/stats.png" width="25"/> <em> Statistics </em>
+  <img src="/assets/stats.png" width="25"/> <em> Statistics </em>
 </h2>
 
 <div align="center">
