@@ -85,8 +85,8 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-![](https://github-readme-stats-lilac-nu-35.vercel.app/api?username=Swayam42&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=300)
-![](https://nirzak-streak-stats.vercel.app/?user=Swayam42&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+![](https://github-readme-stats-lilac-nu-35.vercel.app/api?username=Swayam42&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=250)
+![](https://nirzak-streak-stats.vercel.app/?user=Swayam42&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=340)<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swayam42&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
