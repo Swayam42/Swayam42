@@ -1,118 +1,86 @@
-<h2 align="left">const swayam = { passion: "coding", vibe: "chill", goal: "build cool stuff" };</h2>
-
-###
-
-<!-- Holopin Badge -->
-<div align="center">
-  <a href="https://holopin.io/@swayam42" target="_blank">
-    <img src="https://holopin.me/swayam42" alt="Holopin badges of @swayam42" height="220" />
+<img src="githubbanner.png"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/swayam-jethi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-</div>
-
-###
-
-<div align="left">
-  <h2 align="left">My Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Swayam42&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-<h2 align="left">Keeping the Streak Alive !</h2>
-  <img src="https://streak-stats.demolab.com?user=Swayam42&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
-<div>
-  <h2>Languages I Live By</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swayam42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
-<!-- Tech Toolkit Section (Minimal, single group) -->
-<h2 align="left">My Tech Toolkit</h2>
-<div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript" />
-  </a>
-  <img width="12" />
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python" />
-  </a>
-  <img width="12" />
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java" />
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML5" />
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" title="CSS3" />
-  </a>
-  <img width="12" />
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React" />
-  </a>
-  <img width="12" />
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" title="JQuery" />
-  </a>
-  <img width="12" />
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" title="NodeJS" />
-  </a>
-  <img width="12" />
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" title="Bootstrap" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" title="Canva" />
-  </a>
-  <img width="12" />
-  <a href="https://inkscape.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" title="Inkscape" />
-  </a>
-  <img width="12" />
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git" />
-  </a>
-  <img width="12" />
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" title="GitHub" />
-  </a>
-  <img width="12" />
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" title="Google Cloud" />
-  </a>
-  <img width="12" />
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" title="VSCode" />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Let's Sync</h2>
-<div align="left">
-  <a href="https://www.instagram.com/swayam._.jethi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="34" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/4YFkVJXz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="34" alt="discord logo"  />
+  <a href="https://buymeacoffee.com/swayam42" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </a>
   <a href="mailto:swayam.jethi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="34" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/swayam-jethi-8046251b9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="34" alt="linkedin logo"  />
+  <a href="https://swayamjethi.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/24729781/swayam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="34" alt="stackoverflow logo"  />
-  </a>
+  
+</p>
+
+
+<br>
+
+<h2 align="center"> <img src="/assets/aboutMe.png" width="25"/> <em>About  me </em></h2>
+
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
+<p>
+  Hello there! <em><b>I’m Swayam Jethi</b></em>, a CS undergraduate who loves learning new technologies and building cool stuff. I enjoy working on small, fun projects to apply what I learn in JavaScript, React, Node.js and more.
+</p>
+
+
+<br/>
+
+<p align="center">
+   <img src="/assets/uni.png" width="15"/>   <em><b> Studying at Siksha O Anusandhan University </b></em> <br/>
+   <img src="/assets/free.png" width="15"/>   <em><b> Freelancer - open to projects </b></em><br/>
+   <img src="/assets/code.png" width="15"/>   <em><b> Learning DSA and MERN Stack </b></em><br/>
+   <img src="/assets/ai.png" width="18"/>   <em><b> Exploring Agentic AI, LLM workflows, and RAGs  </b></em><br/>
+</p>
+
+<br/>
+<br/>
+<h2 align="center"> <img src="/imgs/techStack.png" width="25"/> <em> Technologies </em> </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+
+</p>
+
+<br/>
+<br/>
+
+<h2 align="center">
+  <img src="/imgs/stats.png" width="25"/> <em> Statistics </em>
+</h2>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+![](https://github-readme-stats-lilac-nu-35.vercel.app/api?username=Swayam42&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)
+![](https://nirzak-streak-stats.vercel.app/?user=Swayam42&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swayam42&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swayam42/Swayam42/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swayam42/Swayam42/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Swayam42/Swayam42/output/pacman-contribution-graph.svg">
-</picture>
-
-###
