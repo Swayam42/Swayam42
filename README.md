@@ -78,11 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2026 - To: 27 January 2026
+From: 21 January 2026 - To: 28 January 2026
 
-Python   7 hrs 5 mins    ████████████████████░░░░░   80.28 %
-C        1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
-Java     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Python   7 hrs 5 mins    ███████████████████████▓░   94.22 %
+Java     23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
