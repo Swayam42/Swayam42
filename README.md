@@ -78,11 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2026 - To: 02 February 2026
+From: 27 January 2026 - To: 03 February 2026
 
-C++          14 mins         ███████████▒░░░░░░░░░░░░░   45.63 %
-Java         10 mins         ████████▒░░░░░░░░░░░░░░░░   33.89 %
-Markdown     3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+C++          1 hr 12 mins    ███████████████████▓░░░░░   78.26 %
+Java         10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+Markdown     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
