@@ -78,11 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2026 - To: 09 February 2026
+From: 03 February 2026 - To: 10 February 2026
 
-Python     1 hr 23 mins    ███████████▓░░░░░░░░░░░░░   46.88 %
-C++        1 hr 3 mins     █████████░░░░░░░░░░░░░░░░   36.13 %
-Markdown   26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+Python     1 hr 23 mins    ██████████████████▒░░░░░░   73.03 %
+Markdown   26 mins         ██████░░░░░░░░░░░░░░░░░░░   23.66 %
+C++        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 ```
 
 <!--END_SECTION:waka-->
