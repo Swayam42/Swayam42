@@ -78,11 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2026 - To: 16 February 2026
+From: 10 February 2026 - To: 17 February 2026
 
-JavaScript   13 hrs 14 mins  ███████████████▓░░░░░░░░░   63.32 %
-Python       3 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
-HTML         1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+JavaScript   16 hrs 11 mins        ███████████████▓░░░░░░░░░   62.10 %
+Python       3 hrs 10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+HTML         2 hrs 10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
 ```
 
 <!--END_SECTION:waka-->
