@@ -78,11 +78,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2026 - To: 04 May 2026
+From: 28 April 2026 - To: 05 May 2026
 
-Python       4 hrs 3 mins          ████████████████▒░░░░░░░░   64.67 %
-Java         32 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-Other        32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Python        4 hrs 1 min           ████████████████▒░░░░░░░░   64.85 %
+Other         39 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
 ```
 
 <!--END_SECTION:waka-->
