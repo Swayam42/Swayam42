@@ -78,10 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2026 - To: 06 May 2026
+From: 30 April 2026 - To: 07 May 2026
 
-Python        4 hrs 20 mins         ████████████████▓░░░░░░░░   67.25 %
-Other         35 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+Python        4 hrs 25 mins         ████████▓░░░░░░░░░░░░░░░░   34.33 %
+C++           4 hrs 13 mins         ████████▒░░░░░░░░░░░░░░░░   32.77 %
+Other         1 hr 46 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
 ```
 
 <!--END_SECTION:waka-->
