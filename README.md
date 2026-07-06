@@ -78,11 +78,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2026 - To: 04 July 2026
+From: 28 June 2026 - To: 05 July 2026
 
-JavaScript    25 hrs 49 mins        ███████████████▓░░░░░░░░░   62.04 %
-Markdown      3 hrs 24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Bash          3 hrs 5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+JavaScript    18 hrs 59 mins        ██████████████▓░░░░░░░░░░   58.72 %
+Other         3 hrs                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
 ```
 
 <!--END_SECTION:waka-->
