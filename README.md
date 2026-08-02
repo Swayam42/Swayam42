@@ -78,11 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2026 - To: 31 July 2026
+From: 25 July 2026 - To: 01 August 2026
 
-JavaScript   3 hrs 30 mins         █████████░░░░░░░░░░░░░░░░   35.54 %
-TOML         2 hrs 3 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
-Python       1 hr 29 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
+JavaScript   3 hrs 30 mins         ███████████████████▓░░░░░   78.82 %
+Markdown     18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+YAML         17 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
 ```
 
 <!--END_SECTION:waka-->
